@@ -1,0 +1,28 @@
+#--------------------------------------------------------------------
+# DATABASE
+#--------------------------------------------------------------------
+
+database.default.hostname = 127.0.0.1
+database.default.database = ci4login
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port = 3306
+
+User/Admin
+username: copocop22 / email: chevy.warriorsmesmew@gmail.com
+pass: 0215370583
+
+Pegawai
+username: fauri123 / fauri123@gmail.com
+pass: kocak321
+
+
+notes
+aplikasi sudah bisa melakukan login multiuser dan daftar user dengan menggunakan library myth auth
+tetapi aplikasi baru bisa menampilkan data pegawai dan user, belum bisa edit data
+saya sebenarnya sudah bisa melakukan CRUD akan tetapi di karnakan library myth auth 
+yang saya implementasikan belum begitu saya kuasai jadi saya masih bingung menambahkan fitur edit pada aplikasi saya ini
+, dan saya sangat berharap sekali bisa bekerja di prusahaan bapak/ ibu sebagai junior programmer
+untuk bisa menambah pengetahuan saya dalam bidang programing, terimakasih.. 
